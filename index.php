@@ -1,3 +1,3 @@
 <?php
-echo "Gittestregional";
+echo "head";
 phpinfo();
